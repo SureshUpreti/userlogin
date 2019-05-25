@@ -1,0 +1,17 @@
+body{
+	background-color: #00FFFF;
+}
+
+#form{
+	border: solid grey 1px;
+	width: 40%;
+	border-radius: 15px;
+	margin: 100px auto;
+	background: #4D8FAC;
+}
+#btn{
+	color: black;
+	background: #2ECC72;
+	padding: 5px;
+	margin-left: 35%;
+}
